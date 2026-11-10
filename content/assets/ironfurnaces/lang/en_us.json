@@ -1,0 +1,10 @@
+{
+  "block.ironfurnaces.copper_furnace": "Copper Furnace",
+  "block.ironfurnaces.iron_furnace": "Iron Furnace",
+  "block.ironfurnaces.gold_furnace": "Golden Furnace",
+  "block.ironfurnaces.diamond_furnace": "Diamond Furnace",
+  "block.ironfurnaces.emerald_furnace": "Emerald Furnace",
+  "block.ironfurnaces.obsidian_furnace": "Obsidian Furnace",
+  "block.ironfurnaces.crystal_furnace": "Crystal Furnace",
+  "block.ironfurnaces.netherite_furnace": "Netherite Furnace"
+}

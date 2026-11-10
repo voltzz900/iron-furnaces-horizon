@@ -1,0 +1,8 @@
+id = "ironfurnaces"
+name = "Iron Furnaces (Horizon port)"
+version = "0.1.0"
+description = "Faster furnace tiers, ported from Iron Furnaces 4.4.2 (Apache-2.0)."
+authors = ["voltzz900 (Horizon port)", "Qelifern (pizzaatime)", "XenoMustache", "Astryxion"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]
